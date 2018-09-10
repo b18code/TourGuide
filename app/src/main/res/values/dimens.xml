@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Height of each icon in the category list item -->
+    <dimen name="icon_height">88dp</dimen>
+
+    <!-- Margin of each icon in the category list item-->
+    <dimen name="icon_margin">20dp</dimen>
+
+    <!-- Padding left for the RelativeLayout in the the category list item-->
+    <dimen name="relative_layout_padding_leftt">16dp</dimen>
+
+    <!-- Height of each textview in the category list item-->
+    <dimen name="textView_height">44dp</dimen>
+
+    <!-- Divider Height for the category_list.xml -->
+    <dimen name="listView_divider_height">2dp</dimen>
+
+</resources>

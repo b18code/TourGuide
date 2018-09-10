@@ -1,0 +1,253 @@
+<resources>
+
+    <!--Name of the app is displayed in the action bar-->
+    <string name="app_name">Johannesburg Tour Guide</string>
+
+    <!-- Category name for attractions used in getPageTitle [CHAR LIMIT=20] -->
+    <string name="category_attractions">Attractions</string>
+
+    <!-- Category name for events used in getPageTitle [CHAR LIMIT=20] -->
+    <string name="category_events">Events</string>
+
+    <!-- Category name for parks used in getPageTitle [CHAR LIMIT=20] -->
+    <string name="category_parks">Parks</string>
+
+    <!-- Category name for restaurants used in getPageTitle [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+
+    <!-- TextView ID:name_text_view tools:text [CHAR LIMIT=20] -->
+    <string name="tool_text_name">Name</string>
+
+    <!-- TextView ID:address_text_view tools:text [CHAR LIMIT=20] -->
+    <string name="tool_text_address">Address</string>
+
+    <!-- TextView ID:date_phone_text_view tools:text [CHAR LIMIT=20] -->
+    <string name="tool_text_date_or_phone">Date or phone</string>
+
+    <!-- TextView ID:time_text_view tools:text [CHAR LIMIT=20] -->
+    <string name="tool_text_time">time</string>
+
+
+    <!-- String for contentDescription in category_list_item.xml [CHAR LIMIT=20] -->
+    <string name="icon_image_description">Icon of either an Attraction or Park</string>
+
+
+    <!--Strings for Attraction Fragment-->
+    <!--Name of attraction nr. 1-->
+    <string name="apartheid_name">Apartheid Museum</string>
+
+    <!--Address of attraction nr. 1-->
+    <string name="apartheid_address">Northern Park Way and Gold Reef Rd</string>
+
+    <!--Common opening and closing time of an attractions with the same time-->
+    <string name="common_attraction_time">9:00 – 17:00</string>
+
+    <!--Name of attraction nr. 2-->
+    <string name="gold_reef_name">Gold Reef City</string>
+
+    <!--Address of attraction nr. 2-->
+    <string name="gold_reef_address">Northern Pkwy &amp; Data Cres</string>
+
+    <!--Time of attraction nr. 2-->
+    <string name="gold_reef_time">9:30 – 17:00</string>
+
+    <!--Name of attraction nr. 3-->
+    <string name="cradle_name">Cradle of Humankind</string>
+
+    <!--Address of attraction nr.3-->
+    <string name="cradle_address">Approximately 95km from O.R. Tambo International Airport</string>
+
+    <!--Name of attraction nr. 4-->
+    <string name="constitution_name">Constitution Hill</string>
+
+    <!--Address of attraction nr.4-->
+    <string name="constitution_address">11 Kotze St</string>
+
+    <!--Name of attraction nr. 5-->
+    <string name="monte_name">Montecasino</string>
+
+    <!--Address of attraction nr.5-->
+    <string name="monte_address">Montecasino Blvd, Fourways</string>
+
+    <!--Time of attraction nr.5-->
+    <string name="monte_time">24 hours</string>
+
+    <!--Name of attraction nr. 6-->
+    <string name="carlton_name">Carlton Centre</string>
+
+    <!--Address of attraction nr.6-->
+    <string name="carlton_address">150 Commissioner St, CBD</string>
+
+    <!--Time of attraction nr.6-->
+    <string name="carlton_time">9:00 &#8211; 18:00</string>
+
+    <!--Name of attraction nr. 7-->
+    <string name="zoo_name">Johannesburg Zoo</string>
+
+    <!--Address of attraction nr.7-->
+    <string name="zoo_address">Jan Smuts Ave, Parkview</string>
+
+    <!--Time of attraction nr.7-->
+    <string name="zoo_time">8:30 &#8211; 17:30</string>
+
+
+    <!--Strings for Event Fragment-->
+    <!--Name of event nr. 1-->
+    <string name="soweto_name">Soweto Kota Festival</string>
+
+    <!--Address of event nr. 1-->
+    <string name="soweto_address">Walter Sisulu Square, Kliptown Soweto</string>
+
+    <!--Starting time for the event nr.1-->
+    <string name="soweto_time">11:30</string>
+
+    <!--8 Sep 2018 common date for certain events-->
+    <string name="date_8_sept">8 Sep 2018</string>
+
+    <!--Name of event nr. 2-->
+    <string name="gin_name">2nd Annual Soweto Gin Festival</string>
+
+    <!--Address of event nr. 2-->
+    <string name="gin_address">Soweto Cricket Oval</string>
+
+    <!--Starting time for the event nr.2-->
+    <string name="gin_time">11:00</string>
+
+    <!--Name of event nr. 3-->
+    <string name="fnb_name">FNB Joburg 10K Cityrun</string>
+
+    <!--Address of event nr. 3-->
+    <string name="fnb_address">Mary Fitzgerald Square</string>
+
+    <!--Time of event nr. 3-->
+    <string name="fnb_time">8:00</string>
+
+    <!--date of event nr. 3-->
+    <string name="fnb_date">24 Sep 2018</string>
+
+    <!--Name of event nr. 4-->
+    <string name="fitch_name">Fitch And Leedes Present The Gin And Rum Social Garden</string>
+
+    <!--Address of event nr. 4-->
+    <string name="fitch_address">Turbine Hall</string>
+
+    <!--Time of event nr. 4-->
+    <string name="fitch_time">11:00</string>
+
+    <!--29 Sep 2018 common date for certain events-->
+    <string name="date_29_sept">29 Sep 2018</string>
+
+    <!--Name of event nr. 5-->
+    <string name="battle_name">Battle Of Gauteng Stance 2</string>
+
+    <!--Address of event nr. 5-->
+    <string name="battle_address">Dobsonville Rugby Ground</string>
+
+    <!--Time of event nr. 5-->
+    <string name="battle_time">9:15</string>
+
+
+    <!--Strings for Park Fragment-->
+    <!--Name of park nr. 1-->
+    <string name="james_name">James and Ethel Gray Park</string>
+
+    <!--Address of park nr. 1-->
+    <string name="james_address">Melrose Street, Melrose Arch</string>
+
+    <!--Name of park nr. 2-->
+    <string name="rhodes_name">Rhodes Park</string>
+
+    <!--Address of park nr.2-->
+    <string name="rhodes_address">Cnr Cumberland and Ocean streets, Kensington</string>
+
+    <!--Name of park nr.3-->
+    <string name="lake_name">Jhb Zoo Lake</string>
+
+    <!--Address of park nr.3-->
+    <string name="lake_address">Jan Smuts Ave &amp; West World Street, Parkview</string>
+
+    <!--Name of park nr.4-->
+    <string name="bez_name">Bezuidenhout Park</string>
+
+    <!--Address of park nr.4-->
+    <string name="bez_address">1st Ave, Bezuidenhout</string>
+
+    <!--Name of park nr.5-->
+    <string name="wild_name">The Wilds Municipal Nature Reserve</string>
+
+    <!--Address of park nr.5-->
+    <string name="wild_address">Houghton Dr, Houghton Estate</string>
+
+    <!--Name of park nr.6-->
+    <string name="botanical_name">Johannesburg Botanical Garden</string>
+
+    <!--Address of park nr.6-->
+    <string name="botanical_address">Olifants Rd, Emmarentia</string>
+
+    <!--Name of park nr.7-->
+    <string name="koppies_name">Melville Koppies Nature Reserve</string>
+
+    <!--Address of park nr.7-->
+    <string name="koppies_address">4 Judith Rd, Emmarentia</string>
+
+
+    <!--Strings for Restaurant Fragment-->
+    <!--Name of restaurant nr. 1-->
+    <string name="ristorante_name">Ristorante La Trinita</string>
+
+    <!--Address of restaurant nr. 1-->
+    <string name="ristorante_address">Shop G1A , Kyalami Downs Centre</string>
+
+    <!--12:00 - 22:00 common time for restaurants-->
+    <string name="common_time_restaurant">12:00 &#8211; 22:00</string>
+
+    <!--Phone number of restaurant nr. 1-->
+    <string name="ristorante_phone">+27 11 466 7949</string>
+
+    <!--Name of restaurant nr. 2-->
+    <string name="cafe_name">Cafe del Sol Classico</string>
+
+    <!--Address of restaurant nr. 2-->
+    <string name="cafe_address">Olivedale Corner Centre</string>
+
+    <!--Time of restaurant nr.2-->
+    <string name="cafe_time">12:00 &#8211; 21:30</string>
+
+    <!--Phone number of restaurant nr.2-->
+    <string name="cafe_phone">+27 11 704 6493</string>
+
+    <!--Name of restaurant nr.3-->
+    <string name="grill_name">The Grillhouse Rosebank</string>
+
+    <!--Address of restaurant nr.3-->
+    <string name="grill_address">C/O Oxford Road &amp; Bierman Avenue</string>
+
+    <!--Time of restaurant nr.3-->
+    <string name="grill_time">11:00 &#8211; 22:00</string>
+
+    <!--Phone number of restaurant nr.3-->
+    <string name="grill_phone">+27 11 264 1131</string>
+
+    <!--Name of restaurant nr.4-->
+    <string name="mo_name">Mo-Zam-Bik Linksfield</string>
+
+    <!--Address of restaurant nr.4-->
+    <string name="mo_address">110 Linksfield Drive</string>
+
+    <!--Phone number of restaurant nr.4-->
+    <string name="mo_phone">+27 11 264 1131</string>
+
+    <!--Name of restaurant nr.5-->
+    <string name="plaka_name">Plaka Restaurant Cresta</string>
+
+    <!--Address of restaurant nr.5-->
+    <string name="plaka_address">Shop U224, Entrance 12, Cresta Shopping Centre</string>
+
+    <!--Time of restaurant nr.5-->
+    <string name="plaka_time">closed</string>
+
+    <!--Phone number of restaurant nr.5-->
+    <string name="plaka_phone">+27 11 264 1131</string>
+
+</resources>
